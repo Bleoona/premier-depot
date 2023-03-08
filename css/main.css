@@ -6,3 +6,8 @@ body {
 h1 {
     color: black;
 }
+
+img {
+    /*empeche l'image d'etre plus large que la page  */
+    max-width: 100%;
+}
